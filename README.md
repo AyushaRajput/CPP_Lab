@@ -1,0 +1,1 @@
+This C++ program prompts the user to input three numbers and determines which of the three is the largest. It uses a series of      "if" statements to compare the three numbers ("a", "b", and "c"). The program checks each number to see if it is greater than or equal to the other two numbers and then outputs the largest one. The result is displayed to the user.
